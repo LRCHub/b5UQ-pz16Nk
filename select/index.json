@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "セクシー・ラヴ",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T11:12:32.206237Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sexy Love",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Sexy_Love_Ne-Yo.txt"
+    }
+  ]
+}
